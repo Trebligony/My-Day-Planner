@@ -12,11 +12,11 @@ Getting Started
 Page Layout
 Page includes 9 time blocks; each time block includes an hour, a section for the user to enter and event, and a save button that saves the entry in the local storage.
 
-[Layout](Assets/Images/Day-Plannet_layout.png)
+[Layout](Assets/Images/My-Day-Planner_layout.png)
 
 Enter an Event
 User can type in each timeblock. Each entry is saved separately. 
-[User Entry](Assets/Images/Enter-Text.png).  
+[User Entry](Assets/Images/Plan-Text.png).  
 User can save each entry into local storage by clicking on the save button on the right hand side.
 [Local Storage Entry](Assets/Images/Local-Storage.png).  
 
