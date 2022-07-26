@@ -22,4 +22,5 @@ User can save each entry into local storage by clicking on the save button on th
 
 Link to Day Planner: 
 
+https://trebligony.github.io/My-Day-Planner/
 
