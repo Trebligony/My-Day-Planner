@@ -1,4 +1,4 @@
-# Day-Planner
+# My-Day-Planner
 
 A simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
@@ -30,11 +30,11 @@ Near the top of the calendar, the application should display the current day. Ad
 
 * Each timeblock is color coded to indicate whether it is in a past, present, or future hour.
 
-# Day Planner
+# My Day Planner
 The site contains one page:
 It showcases basic html and css learned , jquery, moment.js, and local storage functions.
 
-Getting Started
+# Getting Started
 
 Page Layout
 
